@@ -1,11 +1,14 @@
-# README
+# Data Scientist
 
-### Education
-Data Science, MS (Rochester Institute of Technology, 05/2025)
+### Technical Skills: Python, SQL, Data Visualization, Statistical Analysis
 
-Physics, BS (Iowa State University)
+## Education
+- M.S., Data Science | Rochester Institute of Technology (_May 2025__)
+- B.S., Physics | Iowa State University (_December 2022_)
 
-### Work Expereince
-Research Assistant @ NASA Goddard Space Flight Center
+## Work Experience
+**Research Assistant @ NASA Goddard Space Flight Center (_August 2022 - August 2023_)
+- Big Idea 1
 
-### Projects
+## Projects
+### Project 1
