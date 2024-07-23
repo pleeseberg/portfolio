@@ -58,5 +58,5 @@
 ## Connect With Me :)
 
 - **Email**: pleeseberg17@gmail.com
-- **[LinkedIn Profile](https://www.linkedin.com/in/paige-leeseberg-51b926287/)**
+- **[LinkedIn Profile](https://www.linkedin.com/in/paige-leeseberg-51b926287/)**: Connect with me on LinkedIn
 ```
