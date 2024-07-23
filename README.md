@@ -1,4 +1,5 @@
 # Paige Leeseberg - Data Scientist
+View my Tableau projects here: https://public.tableau.com/app/profile/paige.leeseberg/vizzes
 
 ## Technical Skills
 - Python
