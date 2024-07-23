@@ -48,7 +48,7 @@
 
 ### Data Science and Analytics
 
-- **[Kaggle Projects](https://www.kaggle.com/yourusername)**: Explore my Python projects where I apply data analysis and machine learning techniques.
+- **[Kaggle Projects](https://www.kaggle.com/paigeleeseberg)**: Explore my Python projects where I apply data analysis and machine learning techniques.
 - **[Tableau Public Visualizations](https://public.tableau.com/app/profile/paige.leeseberg/vizzes)**: View my interactive data visualizations and dashboards created using Tableau.
 
 ### Software Development
