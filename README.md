@@ -45,6 +45,7 @@
 - Navigated large databases using Python and learned basic data mining techniques.
 
 ## Projects
+- I am working to transfer my projects to the following locations when time allows. if you are interested in specific projects that are not yet published, please reach out without hesitation
 
 ### Data Science and Analytics
 
