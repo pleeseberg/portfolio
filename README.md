@@ -1,5 +1,4 @@
 # Paige Leeseberg - Data Scientist
-View my Tableau projects here: https://public.tableau.com/app/profile/paige.leeseberg/vizzes
 
 ## Technical Skills
 - Python
@@ -44,7 +43,7 @@ View my Tableau projects here: https://public.tableau.com/app/profile/paige.lees
 ### Data Science and Analytics
 
 - **[Kaggle Projects](https://www.kaggle.com/yourusername)**: Explore my Python projects where I apply data analysis and machine learning techniques.
-- **[Tableau Public Visualizations](https://public.tableau.com/profile/yourusername)**: View my interactive data visualizations and dashboards created using Tableau.
+- **[Tableau Public Visualizations](https://public.tableau.com/app/profile/paige.leeseberg/vizzes)**: View my interactive data visualizations and dashboards created using Tableau.
 
 ### Software Development
 
