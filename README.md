@@ -53,7 +53,7 @@
 
 ### Software Development
 
-- **[GitHub Repositories](https://github.com/yourusername)**: Browse my GitHub repositories showcasing projects in SQL and Java.
+- **[GitHub Repositories](https://github.com/pleeseberg)**: Browse my GitHub repositories showcasing projects in SQL and Java.
 
 ## Connect With Me :)
 
