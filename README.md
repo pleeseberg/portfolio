@@ -1,18 +1,24 @@
 # Paige Leeseberg - Data Scientist
 
 ## Technical Skills
-- Python
+- Python 
+- R
+- Java
 - SQL
+- Tableau
+- Microsoft Suite
+- Power Automate
+- Data Analysis
 - Data Visualization
 - Statistical Analysis
-- Time Series Analysis
+- Time Series Analysis 
 - Research Documentation
 - Creative Problem Solving
 - Effective Time Management
 
 ## Education
-- **M.S., Data Science** | Rochester Institute of Technology (_Expected May 2025_)
-- **B.S., Physics** | Iowa State University (_December 2022_)
+- **M.S., Data Science** | Rochester Institute of Technology (_Expected December 2025_)
+- **B.S., Physics** | Iowa State University
 
 ## Work Experience
 
@@ -36,7 +42,7 @@
 ### Intern @ NASA Goddard Space Flight Center, Greenbelt, MD (_June 2022 - August 2022_)
 - Presented key findings in a project, leading to successful completion.
 - Self-studied computer science principles to gain a deep understanding.
-- Navigated large databases using Python, learning basic data mining techniques.
+- Navigated large databases using Python and learned basic data mining techniques.
 
 ## Projects
 
@@ -51,7 +57,6 @@
 
 ## Contact
 
-- **Address**: 4825 38th St S, Fargo, ND 58104
 - **Phone**: (218) 252-4807
 - **Email**: pleeseberg17@gmail.com
 ```
