@@ -55,10 +55,8 @@
 
 - **[GitHub Repositories](https://github.com/yourusername)**: Browse my GitHub repositories showcasing projects in SQL and Java.
 
-## Contact
+## Contact Information
 
-- **Phone**: (218) 252-4807
 - **Email**: pleeseberg17@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/paige-leeseberg-51b926287/
 ```
-
-This format uses `#` for the main title and `##` for subheadings, keeping the style consistent and easy to read. Make sure to replace `yourusername` with your actual usernames for Kaggle, Tableau, and GitHub.
