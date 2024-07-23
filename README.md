@@ -55,8 +55,8 @@
 
 - **[GitHub Repositories](https://github.com/yourusername)**: Browse my GitHub repositories showcasing projects in SQL and Java.
 
-## Contact Information
+## Connect With Me :)
 
 - **Email**: pleeseberg17@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/paige-leeseberg-51b926287/
+- **[LinkedIn Profile](https://www.linkedin.com/in/paige-leeseberg-51b926287/)**
 ```
