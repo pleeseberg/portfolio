@@ -1,17 +1,25 @@
 # Paige Leeseberg - Data Scientist
 
 ## Technical Skills
-- Python 
-- R
-- Java
-- SQL
+
+### Programming Languages
+- **Python**: Experienced in data manipulation, analysis, and building machine learning models.
+- **R**: Skilled in statistical analysis and data visualization.
+- **Java**: Proficient in developing applications and algorithms.
+- **SQL**: Expertise in database management and querying.
+
+### Data Analysis and Visualization
 - Tableau
-- Microsoft Suite
-- Power Automate
 - Data Analysis
 - Data Visualization
 - Statistical Analysis
-- Time Series Analysis 
+- Time Series Analysis
+
+### Software and Tools
+- Microsoft Suite
+- Power Automate
+
+### Additional Skills
 - Research Documentation
 - Creative Problem Solving
 - Effective Time Management
