@@ -55,12 +55,9 @@
 ## <span style="color:blue;">Projects</span>
 - I am working to transfer my projects to the following locations when time allows. If you are interested in specific projects that are not yet published, please reach out without hesitation
 
-### <span style="color:black;">Data Science and Analytics</span>
+### <span style="color:black;">Data Science,Data Analytics, and Software Development</span>
 
 - **[Tableau Public Visualizations](https://public.tableau.com/app/profile/paige.leeseberg/vizzes)**: View my interactive data visualizations and dashboards created using Tableau.
-
-### <span style="color:black;;">Software Development</span>
-
 - **[GitHub Repositories](https://github.com/pleeseberg)**: Browse my GitHub repositories showcasing projects in Python, SQL, and Java.
 
 ## <span style="color:#blue;">Connect With Me :)</span>
