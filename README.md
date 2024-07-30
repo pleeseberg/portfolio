@@ -1,4 +1,4 @@
-# Paige Leeseberg - Data Scientist
+# Paige Leeseberg - Data Analyst
 
 ## Technical Skills
 - **Programming Languages**: Python (Experienced in data manipulation, analysis, and building machine learning models), SQL (Experienced in database management and querying)
