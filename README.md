@@ -1,14 +1,14 @@
-# <span style="color:black;">Paige Leeseberg - Data Scientist</span>
+# Paige Leeseberg - Data Scientist
 
-## <span style="color:blue;">Technical Skills</span>
+## Technical Skills
 
-### <span style="color:black;">Programming Languages</span>
+### Programming Languages
 - **Python**: Experienced in data manipulation, analysis, and building machine learning models.
 - **R**: Skilled in statistical analysis and data visualization.
 - **Java**: Proficient in developing applications and algorithms.
 - **SQL**: Expertise in database management and querying.
 
-### <span style="color:black;">Data Analysis and Visualization</span>
+### Data Analysis and Visualization
 - Tableau
 - Power BI
 - Data Analysis
@@ -16,52 +16,93 @@
 - Statistical Analysis
 - Time Series Analysis
 
-### <span style="color:black;">Software and Tools</span>
+### Software and Tools
 - Microsoft Suite
 - Power Automate
 
-### <span style="color:black;">Additional Skills</span>
+### Additional Skills
 - Research Documentation
 - Creative Problem Solving
 - Effective Time Management
 
-## <span style="color:blue;">Education</span>
+## Education
 - **M.S., Data Science** | Rochester Institute of Technology (_Expected December 2025_)
 - **B.S., Physics** | Iowa State University
 
-## <span style="color:blue;">Work Experience</span>
+## Work Experience
 
-### <span style="color:black;">Inventory Control Analyst @ Essentia Health, Fargo, ND (_March 2024 - Present_)</span>
-- Analyze inventory data to optimize stock levels and improve supply chain efficiency.
-- Implement forecasting models to predict future inventory needs and reduce excess stock.
-- Collaborate with cross-functional teams to streamline inventory processes and enhance operational performance.
-- Develop reports and dashboards to track key inventory metrics and support decision-making.
+- **Inventory Control Analyst** @ Essentia Health, Fargo, ND (March 2024 - Present)
+  - Analyze inventory data to optimize stock levels and improve supply chain efficiency.
+  - Implement forecasting models to predict future inventory needs, reducing excess stock.
+  - Collaborate with cross-functional teams to streamline inventory processes and enhance operational performance.
+  - Develop reports and dashboards in Tableau to track key inventory metrics and support decision-making.
 
-### <span style="color:black;">Science and Innovation Intern @ Swanson Health Products, Fargo, ND (_October 2023 - March 2024_)</span>
-- Conducted comprehensive research on new products, compiling reports for strategic decision-making.
-- Used pivot tables to analyze customer data and identify trends.
-- Contributed to aligning analytics with business objectives through team collaboration.
+  **Projects:**
+  - **Tableau Dashboards for Inventory Analysis:**
+    - Created comprehensive dashboards in Tableau to visualize inventory metrics and identify trends.
+    - Developed visualizations to monitor key performance indicators (KPIs) and operational efficiency.
+    - Implemented forecasting models and visualized predicted inventory needs.
+  - **Excel Pivot Tables and Dashboards:**
+    - Utilized pivot tables in Excel to analyze complex inventory data and provide insights.
+    - Designed custom dashboards in Excel to track and visualize inventory metrics.
 
-### <span style="color:black;">Research Assistant @ NASA Goddard Space Flight Center, Greenbelt, MD (_August 2022 - July 2023_)</span>
-- Developed a computer model to simulate the behavior of complex systems, improving research result accuracy.
-- Prepared technical reports detailing research findings and project progression.
-- Analyzed and manipulated large datasets using Python and data mining techniques.
-- Developed a research database for data organization and storage.
+- **Science and Innovation Intern** @ Swanson Health Products, Fargo, ND (October 2023 - March 2024)
+  - Conducted comprehensive research on new products, compiling reports for strategic decision-making.
+  - Analyzed customer data using pivot tables to identify trends for marketing strategies.
+  - Led the implementation of Power BI, including dashboard design and team training.
+  - Collaborated with team members to align analytics with business objectives.
 
-### <span style="color:black;">Intern @ NASA Goddard Space Flight Center, Greenbelt, MD (_June 2022 - August 2022_)</span>
-- Presented key findings in a project, leading to successful completion.
-- Self-studied computer science principles to gain a deep understanding.
-- Navigated large databases using Python and learned basic data mining techniques.
+  **Projects:**
+  - **Power BI Dashboards:**
+    - Led the integration of Power BI, including setup and dashboard design.
+    - Created dynamic dashboards that updated with new data for real-time insights.
+    - Developed dashboards to identify key customer trends for strategic decisions.
 
-## <span style="color:blue;">Projects</span>
-- I am working to transfer my projects to the following locations when time allows. If you are interested in specific projects that are not yet published, please reach out without hesitation
+- **Research Assistant** @ NASA Goddard Space Flight Center, Greenbelt, MD (August 2022 - July 2023)  
+  *(Transitioned from Intern position)*  
+  - Developed a computer model to simulate the behavior of complex systems, improving research accuracy.
+  - Analyzed large datasets using Python and data mining techniques for valuable insights.
+  - Prepared technical reports detailing research findings and project progress.
+  - Established a research database for organized data storage and accessibility.
 
-### <span style="color:black;">Data Science,Data Analytics, and Software Development</span>
+  **Projects:**
+  - **Searching for C4H3N Isomers on Titan Using ALMA:**
+    - Investigated photochemical production of C4H3N isomers on Titan using ALMA data.
+    - Analyzed data from ALMA Bands 6 and 7, targeting high predicted line strengths.
+    - Performed data calibration and model fitting to identify candidates.
 
-- **[Tableau Public Visualizations](https://public.tableau.com/app/profile/paige.leeseberg/vizzes)**: View my interactive data visualizations and dashboards created using Tableau.
-- **[GitHub Repositories](https://github.com/pleeseberg)**: Browse my GitHub repositories showcasing projects in Python, SQL, and Java.
+- **Intern** @ NASA Goddard Space Flight Center, Greenbelt, MD (June 2022 - August 2022)
+  - Presented key findings during a project, contributing to its successful completion.
+  - Self-studied computer science principles to enhance data analysis skills, specifically in data mining.
+  - Learned data mining processes and techniques using Python and C++, improving technical proficiency.
+  - Gained knowledge in background chemistry related to Titan, enhancing understanding of planetary science.
 
-## <span style="color:#blue;">Connect With Me :)</span>
+  **Projects:**
+  - **Data Mining Techniques on Titan Research:**
+    - Developed a comprehensive understanding of data mining steps, including data collection, preprocessing, analysis, and visualization.
+    - Utilized Python and C++ to implement data mining algorithms for analyzing large datasets related to Titan's atmospheric chemistry.
+    - Conducted exploratory data analysis to identify patterns and trends in the data, informing further research.
+    - Collaborated with team members to present findings and insights, contributing to ongoing research efforts related to Titan’s chemistry.
 
-- **Email**: pleeseberg17@gmail.com
-- **[LinkedIn Profile](https://www.linkedin.com/in/paige-leeseberg-51b926287/)**: Connect with me on LinkedIn
+- **Undergraduate Research** @ Iowa State University, Ames, IA (2019 - 2022)
+  - Researched the period-luminosity relation of RR Lyrae stars in globular clusters.
+  - Processed and analyzed astronomical images using advanced software tools.
+  - Collaborated with faculty and peers, developing teamwork and communication skills.
+  - Dedicated over 400 hours to the project while balancing academic responsibilities.
+
+  **Projects:**
+  - **Calibration of the Period-Luminosity Relation:**
+    - Learned Python and Astropy to analyze astronomical data and process images of globular clusters.
+    - Utilized MOPEX for image mosaics and DAOPHOT for photometry.
+    - Created mosaics and measured light curves for distance calibration.
+    - Improved proficiency in data analysis techniques and gained recognition through a research scholarship.
+
+## Personal Projects
+- **Tableau Public Visualizations:** View my interactive data visualizations and dashboards created using Tableau.
+- **GitHub Repositories:** Browse my GitHub repositories showcasing projects in Python, SQL, and Java.
+- **Power BI Projects:**
+  - **Swanson Health Products Dashboards:** Developed dynamic dashboards that updated with new information, identified key customer trends, and enhanced data visualization for directors.
+
+## Connect With Me :)
+- **Email:** pleeseberg17@gmail.com
+- **LinkedIn Profile:** [LinkedIn Profile](https://www.linkedin.com/in/paigeleeseberg)
