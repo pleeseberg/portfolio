@@ -98,10 +98,11 @@
     - Improved proficiency in data analysis techniques and gained recognition through a research scholarship.
 
 ## Personal Projects
+
+- I am in the process of moving my projects over from my hard drive. If there is a specific topic that I have not yet moved over that you would like to discuss, please feel free to reach out!
+
 - **Tableau Public Visualizations:** View my interactive data visualizations and dashboards created using Tableau.
 - **GitHub Repositories:** Browse my GitHub repositories showcasing projects in Python, SQL, and Java.
-- **Power BI Projects:**
-  - **Swanson Health Products Dashboards:** Developed dynamic dashboards that updated with new information, identified key customer trends, and enhanced data visualization for directors.
 
 ## Connect With Me :)
 - **Email:** pleeseberg17@gmail.com
