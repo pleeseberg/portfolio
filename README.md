@@ -6,7 +6,7 @@
 - **Python**: Experienced in data manipulation, analysis, and building machine learning models.
 - **R**: Skilled in statistical analysis and data visualization.
 - **Java**: Proficient in developing applications and algorithms.
-- **SQL**: Expertise in database management and querying.
+- **SQL**: Experienced in database management and querying.
 
 ### Data Analysis and Visualization
 - Tableau
