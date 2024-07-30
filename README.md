@@ -21,9 +21,9 @@
 ## Work Experience
 
 ### Inventory Control Analyst @ Essentia Health, Fargo, ND (March 2024 - Present)
-- **Optimized Stock Levels**: Analyzed inventory data to enhance stock levels, leading to a 15% reduction in excess inventory and associated costs.
-- **Improved Supply Chain Efficiency**: Implemented advanced forecasting models, resulting in a 20% improvement in inventory turnover rates and more accurate demand predictions.
-- **Enhanced Operational Performance**: Collaborated with cross-functional teams to streamline inventory processes, reducing lead times by 10% and improving overall supply chain efficiency.
+- **Optimized Stock Levels**: Analyzed inventory data to enhance stock levels, leading to a reduction in excess inventory and associated holding costs. Applied data-driven strategies to improve inventory management precision.
+- **Enhanced Supply Chain Efficiency**: Implemented strategies that improved inventory turnover rates and demand accuracy, reducing stockouts and overstock situations.
+- **Streamlined Operational Performance**: Collaborated with cross-functional teams to refine inventory management processes. Achieved reductions in lead times through process improvements and better alignment with supply chain partners, resulting in enhanced overall efficiency.
 - **Developed Reports and Dashboards**: Created comprehensive reports and dashboards in Tableau to track key inventory metrics, enabling better decision-making and real-time insights into inventory performance.
 
 #### Projects:
