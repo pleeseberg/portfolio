@@ -10,6 +10,7 @@
 
 ### <span style="color:black;">Data Analysis and Visualization</span>
 - Tableau
+- Power BI
 - Data Analysis
 - Data Visualization
 - Statistical Analysis
