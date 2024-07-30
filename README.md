@@ -71,4 +71,4 @@ I am in the process of moving my projects over from my hard drive. If there is a
 
 ## Connect With Me
 - **Email**: pleeseberg17@gmail.com
-- **LinkedIn Profile**: [LinkedIn Profile](#)
+- **LinkedIn Profile**: [LinkedIn Profile](https://www.linkedin.com/in/paige-leeseberg-51b926287/)
