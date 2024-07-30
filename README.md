@@ -31,9 +31,9 @@
 - **Excel Pivot Tables and Dashboards**: Utilized pivot tables to analyze complex data, revealing insights that informed inventory management strategies. Created custom dashboards to track and visualize inventory metrics, enhancing data accessibility for the team.
 
 ### Science and Innovation Intern @ Swanson Health Products, Fargo, ND (October 2023 - March 2024)
-- **Conducted Research and Analysis**: Led research on new products, providing critical insights for strategic decision-making that contributed to the development of five new product lines.
-- **Implemented Power BI**: Spearheaded the implementation of Power BI, including dashboard design and team training, which improved data visualization capabilities and facilitated a 25% increase in the efficiency of data-driven decision-making.
-- **Team Collaboration**: Worked closely with team members to align analytics with business objectives, enhancing the overall strategic approach and integration of analytics within the organization.
+- **Conducted Research and Analysis**: Led research on new products, providing critical insights that informed strategic decision-making and contributed to the development of new product lines.
+- **Implemented Power BI**: Initiated the use of Power BI, including dashboard design and team training. Worked to enhance data visualization capabilities and support more effective data-driven decision-making.
+- **Team Collaboration**: Worked closely with team members to align analytics with business objectives, strengthening the overall strategic approach and integration of analytics within the organization.
 
 #### Projects:
 - **Power BI Dashboards**: Directed the creation and integration of Power BI dashboards, resulting in real-time data updates and visualizations that helped identify key customer trends and supported strategic business decisions. Trained team members on using Power BI, fostering a data-driven culture within the team.
