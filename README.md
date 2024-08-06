@@ -64,10 +64,20 @@
 - **Calibration of the Period-Luminosity Relation**: Learned Python and Astropy to analyze astronomical data and process images of globular clusters. Utilized MOPEX for image mosaics and DAOPHOT for photometry. Created mosaics and measured light curves for distance calibration.
 
 ## Personal Projects
-I am in the process of moving my projects over from my hard drive. If there is a specific topic that I have not yet moved over that you would like to discuss, please feel free to reach out!
 
-- **Tableau Public Visualizations**: [View my interactive data visualizations and dashboards created using Tableau](https://public.tableau.com/app/profile/paige.leeseberg/vizzes).
-- **GitHub Repositories**: [Browse my GitHub repositories showcasing projects in Python, SQL, and Java](https://github.com/pleeseberg).
+**Twitter Sentiment Analysis**  
+*Personal Project*  
+*Date: August 2024*  
+- **Objective**: Conducted sentiment analysis on Twitter data to classify tweets into sentiment categories and evaluate different machine learning models.
+- **Approach**: Used Python for data preprocessing, vectorization, and modeling. Employed Logistic Regression, Naive Bayes, and Linear SVC to build and test sentiment classifiers.
+- **Key Achievements**:
+  - Developed and visualized ROC curves to assess model performance.
+  - Addressed and handled missing data effectively.
+  - Achieved a balanced accuracy across multiple models, with detailed classification reports.
+- **Project Link**: [Twitter Sentiment Analysis on GitHub](https://github.com/pleeseberg/Python-Projects/tree/main/Twitter_Sentiment_Analysis)
+
+**Tableau Public Visualizations**: [View my interactive data visualizations and dashboards created using Tableau](https://public.tableau.com/app/profile/paige.leeseberg/vizzes).  
+**GitHub Repositories**: [Browse my GitHub repositories showcasing projects in Python, SQL, and Java](https://github.com/pleeseberg).
 
 ## Connect With Me
 - **Email**: pleeseberg17@gmail.com
