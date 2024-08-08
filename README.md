@@ -66,8 +66,7 @@
 ## Personal Projects
 
 **Twitter Sentiment Analysis**  
-*Personal Project*  
-*Date: August 2024*  
+*Personal Project, August 2024*  
 - **Objective**: Conducted sentiment analysis on Twitter data to classify tweets into sentiment categories and evaluate different machine learning models.
 - **Approach**: Used Python for data preprocessing, vectorization, and modeling. Employed Logistic Regression, Naive Bayes, and Linear SVC to build and test sentiment classifiers.
 - **Key Achievements**:
@@ -77,7 +76,7 @@
 - **Project Link**: [Twitter Sentiment Analysis on GitHub](https://github.com/pleeseberg/Python-Projects/tree/main/Twitter_Sentiment_Analysis)
 
 **Tableau Public Visualizations**: [View my interactive data visualizations and dashboards created using Tableau](https://public.tableau.com/app/profile/paige.leeseberg/vizzes).  
-**GitHub Repositories**: [Browse my GitHub repositories showcasing projects in Python, SQL, and Java](https://github.com/pleeseberg).
+**GitHub Repositories**: [Browse my GitHub repositories showcasing additional projects in Python, SQL, and Java](https://github.com/pleeseberg).
 
 ## Connect With Me
 - **Email**: pleeseberg17@gmail.com
