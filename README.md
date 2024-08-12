@@ -63,6 +63,9 @@
 #### Projects:
 - **Calibration of the Period-Luminosity Relation**: Learned Python and Astropy to analyze astronomical data and process images of globular clusters. Utilized MOPEX for image mosaics and DAOPHOT for photometry. Created mosaics and measured light curves for distance calibration.
 
+## Certifications and Learning
+- **Microsoft Learn**: [View my Microsoft Learn profile](https://learn.microsoft.com/en-us/training/). My profile includes various certifications and courses related to data analysis, visualization, and cloud computing, reflecting my ongoing commitment to professional development and proficiency in Microsoft technologies.
+
 ## Personal Projects
 
 **Twitter Sentiment Analysis**  
