@@ -1,7 +1,7 @@
 # Paige Leeseberg - Data Analyst
 
 ## Technical Skills
-- **Programming Languages**: Python (Experienced in data manipulation, analysis, and building machine learning models), SQL (Experienced in database management and querying)
+- **Programming Languages**: Python (Experienced in data manipulation, analysis, and building machine learning models), PostgreSQL (Experienced in database management and querying)
 - **Data Visualization Tools**: Tableau, Power BI
 - **Data Analysis**: Statistical Analysis, Time Series Analysis
 
