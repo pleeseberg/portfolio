@@ -68,6 +68,16 @@
 
 ## Personal Projects
 
+**Customer Segmentation Analysis Using K-Means Clustering**  
+*Personal Project, August 2024*  
+- **Objective**: Performed customer segmentation using K-Means clustering on transactional data from an online retailer to identify distinct customer groups.
+- **Approach**: Processed and normalized RFM (Recency, Frequency, Monetary Value) metrics, and applied K-Means clustering with different numbers of clusters (3, 6, 9) to determine the optimal segmentation.
+- **Key Achievements**:
+  - Analyzed and visualized clustering results to understand customer behavior.
+  - Evaluated model performance using silhouette scores, Davies-Bouldin index, and WCSS.
+  - Created detailed scatter plots and visualizations to compare clustering results.
+- **Project Link**: [Customer Segmentation Analysis on GitHub](https://github.com/pleeseberg/Python-Projects/tree/main/Customer_Segmentation_Using_K-Means_Clustering)
+
 **Twitter Sentiment Analysis**  
 *Personal Project, August 2024*  
 - **Objective**: Conducted sentiment analysis on Twitter data to classify tweets into sentiment categories and evaluate different machine learning models.
