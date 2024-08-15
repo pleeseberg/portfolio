@@ -2,7 +2,7 @@
 
 <style>
 h2 {
-  color: #064E40;
+  color: #276AB3;
 }
 </style>
 
