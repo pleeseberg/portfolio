@@ -76,14 +76,16 @@ h2 {
 **Customer Segmentation Analysis Using K-Means Clustering**  
 *Personal Project, August 2024*  
 - **Objective**: Identified distinct customer groups using K-Means clustering on transactional data.
+- **Programming Language**: Python
 - **Achievements**: Visualized clustering results, evaluated model performance, and created detailed scatter plots for comparison.
 - **Project Link**: [Customer Segmentation Analysis on GitHub](https://github.com/pleeseberg/Python-Projects/tree/main/Customer_Segmentation_Using_K-Means_Clustering)
 
-**Twitter Sentiment Analysis**  
+**Sentiment Analysis and Time Series Visualization**  
 *Personal Project, August 2024*  
-- **Objective**: Analyzed Twitter data to classify sentiments using various machine learning models.
-- **Achievements**: Developed ROC curves, handled missing data, and achieved balanced accuracy with detailed classification reports.
-- **Project Link**: [Twitter Sentiment Analysis on GitHub](https://github.com/pleeseberg/Python-Projects/tree/main/Twitter_Sentiment_Analysis)
+- **Objective**: Analyzed sentiment from tweets related to Amazon and visualized these sentiments over time.
+- **Programming Language**: R
+- **Achievements**: Cleaned text data, performed sentiment analysis, and visualized sentiment trends and key themes using various plots.
+- **Project Link**: [Sentiment Analysis and Time Series Visualization on GitHub](https://github.com/pleeseberg/R-Projects/blob/main/Twitter_Sentiment_Analysis/README.md)
 
 **Tableau Public Visualizations**: [View interactive data visualizations and dashboards](https://public.tableau.com/app/profile/paige.leeseberg/vizzes).  
 **GitHub Repositories**: [Browse my GitHub repositories](https://github.com/pleeseberg).
