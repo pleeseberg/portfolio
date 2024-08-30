@@ -87,6 +87,13 @@ h2 {
 - **Achievements**: Cleaned text data, performed sentiment analysis, and visualized sentiment trends and key themes using various plots.
 - **Project Link**: [Sentiment Analysis and Time Series Visualization on GitHub](https://github.com/pleeseberg/R-Projects/blob/main/Twitter_Sentiment_Analysis/README.md)
 
+**Time Series Analysis in R on Historical Stock Price Data**  
+*Personal Project, August 2024*  
+- **Objective**: Analyzed historical closing prices of MasterCard and Visa stocks using ARIMA modeling to assess predictive accuracy.
+- **Data Description**: Historical stock price data from June 2008 to June 2024, including various stock metrics.
+- **Key Findings**: ARIMA models provided insights into stock price trends, with MasterCard and Visa models showing varying levels of forecasting accuracy.
+- **Project Link**: [Time Series Analysis on GitHub](https://github.com/pleeseberg/R-Projects/tree/main/Time_Series_Analysis_Stock_Prices)
+
 **Tableau Public Visualizations**: [View interactive data visualizations and dashboards](https://public.tableau.com/app/profile/paige.leeseberg/vizzes).  
 **GitHub Repositories**: [Browse my GitHub repositories](https://github.com/pleeseberg).
 
