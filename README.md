@@ -30,7 +30,7 @@ h2 {
 - **Optimized Stock Levels**: Reduced excess inventory and holding costs through advanced data-driven inventory management strategies.
 - **Enhanced Supply Chain Efficiency**: Improved inventory turnover rates and demand accuracy, minimizing stockouts and overstock situations.
 - **Streamlined Operational Performance**: Collaborated with cross-functional teams to refine inventory management processes, resulting in reduced lead times and improved efficiency.
-- **Developed Reports and Dashboards**: Created dynamic Tableau dashboards for real-time inventory metrics, facilitating better decision-making and insight into inventory performance.
+- **Developed Reports and Dashboards**: Created dynamic dashboards for real-time inventory metrics, facilitating better decision-making and insight into inventory performance.
 
 #### Projects:
 - **Tableau Dashboards for Inventory Analysis**: Designed dashboards that visualized inventory metrics, improved decision-making, and provided actionable insights.
