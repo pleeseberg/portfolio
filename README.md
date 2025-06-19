@@ -7,7 +7,7 @@ h2 {
 </style>
 
 ## Technical Skills
-- **Programming Languages**: Python, R, and PostgreSQL (Experienced in data manipulation, analysis, building machine learning models, database management, and querying)
+- **Programming Languages**: Python, R, PostgreSQL (Experienced in data manipulation, analysis, building machine learning models, database management, and querying)
 - **Data Visualization Tools**: Tableau, Power BI
 - **Data Analysis**: Statistical Analysis, Time Series Analysis
 
@@ -26,7 +26,13 @@ h2 {
 
 ## Work Experience
 
-### Inventory Control Analyst @ Essentia Health, Fargo, ND (March 2024 - Present)
+### Access Analyst @ Essentia Health, Fargo, ND (October 2024 - Present, 40 hours/week)
+- **Build Tableau Dashboards**: Design dashboards to visualize data and support departmental decision-making.
+- **Excel Report Creation**: Create and maintain reports for various teams, ensuring business operations are data-driven.
+- **Data Analysis**: Assist in analyzing complex datasets to uncover trends and actionable insights.
+- **Data-Driven Recommendations**: Provide insights to optimize business processes and improve operational efficiency.
+
+### Inventory Control Analyst @ Essentia Health, Fargo, ND (March 2024 - October 2024, 40 hours/week)
 - **Optimized Stock Levels**: Reduced excess inventory and holding costs through advanced data-driven inventory management strategies.
 - **Enhanced Supply Chain Efficiency**: Improved inventory turnover rates and demand accuracy, minimizing stockouts and overstock situations.
 - **Streamlined Operational Performance**: Collaborated with cross-functional teams to refine inventory management processes, resulting in reduced lead times and improved efficiency.
@@ -72,6 +78,14 @@ h2 {
 - **Microsoft Learn**: [View my Microsoft Learn profile](https://learn.microsoft.com/en-us/users/paigeleeseberg-3975/). Includes certifications and courses in data analysis, visualization, and cloud computing.
 
 ## Personal Projects
+
+**Customer Support Flow Analysis**  
+*Personal Project, August 2024*  
+- **Objective**: Applied machine learning models like Logistic Regression, Random Forest, and XGBoost to predict whether a customer would recommend a product based on their feedback.
+- **Programming Language**: Python
+- **Achievements**: Successfully cleaned and preprocessed data, implemented various classification models, and visualized model performance through ROC curves and feature importance plots.
+- **Key Insights**: Identified key features that influence customer recommendations, such as customer service and product ease of use.
+- **Project Link**: [Customer Support Flow Analysis on GitHub](https://github.com/pleeseberg/Customer_Support_Flow_Analysis)
 
 **Customer Segmentation Analysis Using K-Means Clustering**  
 *Personal Project, August 2024*  
