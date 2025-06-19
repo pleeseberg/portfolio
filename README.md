@@ -78,7 +78,7 @@ h2 {
 - **Programming Language**: Python
 - **Achievements**: Successfully cleaned and preprocessed data, implemented various classification models, and visualized model performance through ROC curves and feature importance plots.
 - **Key Insights**: Identified key features that influence customer recommendations, such as customer service and product ease of use.
-- **Project Link**: [Customer Support Flow Analysis on GitHub](https://github.com/pleeseberg/Customer_Support_Flow_Analysis)
+- **Project Link**: [Customer Support Flow Analysis on GitHub](https://github.com/pleeseberg/Python-Projects/tree/main/Customer_Support_Flow_Analysis)
 
 **Customer Segmentation Analysis Using K-Means Clustering**  
 *Personal Project, August 2024*  
