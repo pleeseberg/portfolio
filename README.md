@@ -80,7 +80,7 @@ h2 {
 ## Personal Projects
 
 **Customer Support Flow Analysis**  
-*Personal Project, August 2024*  
+*Personal Project, June 2025*  
 - **Objective**: Applied machine learning models like Logistic Regression, Random Forest, and XGBoost to predict whether a customer would recommend a product based on their feedback.
 - **Programming Language**: Python
 - **Achievements**: Successfully cleaned and preprocessed data, implemented various classification models, and visualized model performance through ROC curves and feature importance plots.
