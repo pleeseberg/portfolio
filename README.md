@@ -9,7 +9,7 @@ h2 {
 ## Technical Skills
 - **Programming Languages**: Python, R, PostgreSQL (Experienced in data manipulation, analysis, building machine learning models, database management, and querying)
 - **Data Visualization Tools**: Tableau, Power BI
-- **Data Analysis**: Statistical Analysis, Time Series Analysis
+- **Data Analysis**: Statistical Analysis, Time Series Analysis, AI/ML
 
 ## Software and Tools
 - Microsoft Suite
