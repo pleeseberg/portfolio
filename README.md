@@ -38,17 +38,10 @@ h2 {
 - **Streamlined Operational Performance**: Collaborated with cross-functional teams to refine inventory management processes, resulting in reduced lead times and improved efficiency.
 - **Developed Reports and Dashboards**: Created dynamic dashboards for real-time inventory metrics, facilitating better decision-making and insight into inventory performance.
 
-#### Projects:
-- **Tableau Dashboards for Inventory Analysis**: Designed dashboards that visualized inventory metrics, improved decision-making, and provided actionable insights.
-- **Excel Pivot Tables and Dashboards**: Analyzed complex data and created custom dashboards, enhancing team accessibility to inventory metrics.
-
 ### Science and Innovation Intern @ Swanson Health Products, Fargo, ND (October 2023 - March 2024)
 - **Conducted Research and Analysis**: Provided critical insights for new product development and strategic decision-making.
 - **Implemented Power BI**: Initiated and trained the team in Power BI for enhanced data visualization and decision-making.
 - **Team Collaboration**: Aligned analytics with business objectives, strengthening the strategic integration of analytics.
-
-#### Projects:
-- **Power BI Dashboards**: Developed and integrated Power BI dashboards, resulting in real-time data updates and visualizations that identified key customer trends.
 
 ### Research Assistant @ NASA Goddard Space Flight Center, Greenbelt, MD (August 2022 - July 2023)
 - **Simulated Complex Systems**: Developed a computer model to simulate system behavior, enhancing research accuracy.
